@@ -9,7 +9,6 @@ import player_act.ActorMovement;
 
 /**
  * this class is for the digits used for score y
- * @author karim
  *
  */
 public class Digit extends Actor{
