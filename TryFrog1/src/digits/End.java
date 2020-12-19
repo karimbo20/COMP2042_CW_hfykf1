@@ -8,7 +8,6 @@ import player_act.ActorMovement;
 
 /**
  * This class is used for the end holes and has no runtime functionality
- * @author khaled
  *
  */
 public class End extends Actor{
